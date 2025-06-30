@@ -41,7 +41,6 @@ Deux types de profils sont gérés par l’application :
 👤 Utilisateur
 Un administrateur principal est déjà préconfiguré pour la première connexion :
 Mot de passe : password
-![Login](screenshots/login.PNG)
 
 ## 📂 Dossier des captures d'écran
 
